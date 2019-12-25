@@ -1,6 +1,7 @@
 {
   "name": "chat-app",
   "version": "0.1.0",
+  "homepage": "https://anasbajjouk.github.io/chatkit",
   "private": true,
   "dependencies": {
     "@pusher/chatkit": "^0.7.18",
