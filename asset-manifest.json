@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/chatkit/static/css/main.a5b42d94.chunk.css",
+    "main.js": "/chatkit/static/js/main.d03829f3.chunk.js",
+    "main.js.map": "/chatkit/static/js/main.d03829f3.chunk.js.map",
+    "runtime-main.js": "/chatkit/static/js/runtime-main.26f49140.js",
+    "runtime-main.js.map": "/chatkit/static/js/runtime-main.26f49140.js.map",
+    "static/js/2.0b2e65a4.chunk.js": "/chatkit/static/js/2.0b2e65a4.chunk.js",
+    "static/js/2.0b2e65a4.chunk.js.map": "/chatkit/static/js/2.0b2e65a4.chunk.js.map",
+    "index.html": "/chatkit/index.html",
+    "precache-manifest.50080a313904d3a220984b84a1188f7d.js": "/chatkit/precache-manifest.50080a313904d3a220984b84a1188f7d.js",
+    "service-worker.js": "/chatkit/service-worker.js",
+    "static/css/main.a5b42d94.chunk.css.map": "/chatkit/static/css/main.a5b42d94.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26f49140.js",
+    "static/js/2.0b2e65a4.chunk.js",
+    "static/css/main.a5b42d94.chunk.css",
+    "static/js/main.d03829f3.chunk.js"
+  ]
+}
